@@ -1,14 +1,8 @@
 ## Charles Here! 👋
 
-<div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 12px">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNightmareX&show_icons=true&theme=onedark)
 
-<!-- GiHub Status -->
-<img src="https://github-readme-stats.vercel.app/api?username=TheNightmareX&show_icons=true&theme=onedark">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNightmareX&theme=onedark&hide=html,css&layout=compact">
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNightmareX&theme=onedark&hide=html,css&layout=compact)
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
