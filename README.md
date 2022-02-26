@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
