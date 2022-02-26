@@ -1,8 +1,4 @@
-## Charles Here! 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNightmareX&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNightmareX&theme=onedark&hide=html,css&layout=compact)
+![Metrics](/github-metrics.svg)
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -12,8 +8,3 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
-> - https://github.com/Ileriayo/markdown-badges
-> - https://github.com/anuraghazra/github-readme-stats
