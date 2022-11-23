@@ -43,4 +43,4 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: deepkit-rest/rest, tasked, berry-orm, nest-mikro-crud, mikro-orm-soft-delete
+          plugin_repositories_featured: reply, deepkit-rest/rest, tasked, berry-orm, nest-mikro-crud, mikro-orm-soft-delete
