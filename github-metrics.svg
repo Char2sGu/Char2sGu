@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1729" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2175" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,17 +32,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5758 Commits
+                            5775 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            160 issue comments
+                            162 issue comments
                         </div>
                     </section>
                     <section>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 720 repositories
+                            Starred 723 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    368 MB used
+                                    369 MB used
                                 </div>
                             </section>
                             <section>
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.8506638917848" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="252.8506638917848" y="0" width="71.40130349149277" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="324.25196738327753" y="0" width="65.21196049998335" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="389.4639278832609" y="0" width="35.852271826722124" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="425.31619970998304" y="0" width="15.422544664589816" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="440.73874437457283" y="0" width="12.518849001938515" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.25759337651135" y="0" width="3.498867717511935" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.75646109402334" y="0" width="3.243538905976724" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.91168250346934" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="252.91168250346934" y="0" width="71.37237632226633" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="324.28405882573566" y="0" width="65.18554085041497" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.4695996761506" y="0" width="35.86065165630064" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="425.33025133245127" y="0" width="15.416296451495668" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="440.74654778394694" y="0" width="12.513777177673536" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.2603249616205" y="0" width="3.4974502036345108" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.75777516525494" y="0" width="3.242224834745001" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -629,12 +629,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 44 commits)</small>
+                    <small class="h-details">(computed from last 56 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -657,6 +657,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 3 days
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 37 days
@@ -677,7 +683,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.45
+                            Average per day at ~5.50
                         </div>
                     </section>
                 </div>
@@ -2615,17 +2621,22 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 9.804878048780488)">
+                            <g transform="translate(-10.2, 9.365853658536587)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.195121951219512 0,3.1951219512195124 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.1951219512195124 1.7,4.195121951219512 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.634146341463415 0,3.6341463414634148 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.6341463414634148 1.7,4.634146341463415 z"/>
                             </g>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 4.390243902439025)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6097560975609757 0,2.6097560975609757 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6097560975609757 1.7,3.6097560975609757 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 5.682926829268293)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3170731707317076 0,2.3170731707317076 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3170731707317076 1.7,3.3170731707317076 z"/>
                             </g>
                         </g>
                     </g>
@@ -2653,7 +2664,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Apr 2023, 07:12:28
+                            On 25 Apr 2023, 07:55:45
                         </div>
                     </section>
                 </div>
@@ -2669,11 +2680,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3681b394</span>
-                            <span class="code">runtime.ed9b07982e7f0f0f.js</span>
+                            <span class="code">4b430b70</span>
+                            <span class="code">508.ce0dceb7fbbd1dd0.js</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--0</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -2681,14 +2692,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">(()=&gt;{"use strict";var e,v={},g={};function r(e){var n=g[e];if(void 0!==n)return n.exports;var t=g[e]={exports:{}};return v[e].call(t.exports,t,t.exports,r),t.exports}r.m=v,e=[],r.O=(n,t,f,i)=&gt;{if(!t){var a=1/0;for(o=0;o&lt;e.length;o++){for(var[t,f,i]=e[o],l=!0,d=0;d&lt;t.length;d++)(!1&amp;i||a&gt;=i)&amp;&amp;Object.keys(r.O).every(p=&gt;r.O[p](t[d]))?t.splice(d--,1):(l=!1,i&lt;a&amp;&amp;(a=i));if(l){e.splice(o--,1);var s=f();void 0!==s&amp;&amp;(n=s)}}return n}i=i||0;for(var o=e.length;o&gt;0&amp;&amp;e[o-1][2]&gt;i;o--)e[o]=e[o-1];e[o]=[t,f,i]},r.n=e=&gt;{var n=e&amp;&amp;e.__esModule?()=&gt;e.default:()=&gt;e;return r.d(n,{a:n}),n},(()=&gt;{var n,e=Object.getPrototypeOf?t=&gt;Object.getPrototypeOf(t):t=&gt;t.__proto__;r.t=function(t,f){if(1&amp;f&amp;&amp;(t=this(t)),8&amp;f||"object"==typeof t&amp;&amp;t&amp;&amp;(4&amp;f&amp;&amp;t.__esModule||16&amp;f&amp;&amp;"function"==typeof t.then))return t;var i=Object.create(null);r.r(i);var o={};n=n||[null,e({}),e([]),e(e)];for(var a=2&amp;f&amp;&amp;t;"object"==typeof a&amp;&amp;!~n.indexOf(a);a=e(a))Object.getOwnPropertyNames(a).forEach(l=&gt;o[l]=()=&gt;t[l]);return o.default=()=&gt;t,r.d(i,o),i}})(),r.d=(e,n)=&gt;{for(var t in n)r.o(n,t)&amp;&amp;!r.o(e,t)&amp;&amp;Object.defineProperty(e,t,{enumerable:!0,get:n[t]})},r.f={},r.e=e=&gt;Promise.all(Object.keys(r.f).reduce((n,t)=&gt;(r.f[t](e,n),n),[])),r.u=e=&gt;e+"."+{212:"d99b124a8880b7db",299:"0481c3feb65a4882",359:"5225da3a1ab0c9ff",456:"65dad1e204e28487",508:"172141a6cee0db38",604:"54a22b78a12a9793",737:"479ded4565ab65cc",762:"646f735b8e188cfb",954:"de2df2c8bb9fb193",977:"3a05fe078cfed205",991:"0b7f1cbee2767e96"}[e]+".js",r.miniCssF=e=&gt;{},r.o=(e,n)=&gt;Object.prototype.hasOwnProperty.call(e,n),(()=&gt;{var e={},n="site:";r.l=(t,f,i,o)=&gt;{if(e[t])e[t].push(f);else{var a,l;if(void 0!==i)for(var d=document.getElementsByTagName("script"),s=0;s&lt;d.length;s++){var u=d[s];if(u.getAttribute("src")==t||u.getAttribute("data-webpack")==n+i){a=u;break}}a||(l=!0,(a=document.createElement("script")).type="module",a.charset="utf-8",a.timeout=120,r.nc&amp;&amp;a.setAttribute("nonce",r.nc),a.setAttribute("data-webpack",n+i),a.src=r.tu(t)),e[t]=[f];var b=(_,p)=&gt;{a.onerror=a.onload=null,clearTimeout(c);var y=e[t];if(delete e[t],a.parentNode&amp;&amp;a.parentNode.removeChild(a),y&amp;&amp;y.forEach(m=&gt;m(p)),_)return _(p)},c=setTimeout(b.bind(null,void 0,{type:"timeout",target:a}),12e4);a.onerror=b.bind(null,a.onerror),a.onload=b.bind(null,a.onload),l&amp;&amp;document.head.appendChild(a)}}})(),r.r=e=&gt;{typeof Symbol&lt;"u"&amp;&amp;Symbol.toStringTag&amp;&amp;Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},(()=&gt;{var e;r.tt=()=&gt;(void 0===e&amp;&amp;(e={createScriptURL:n=&gt;n},typeof trustedTypes&lt;"u"&amp;&amp;trustedTypes.createPolicy&amp;&amp;(e=trustedTypes.createPolicy("angular#bundler",e))),e)})(),r.tu=e=&gt;r.tt().createScriptURL(e),r.p="",(()=&gt;{var e={666:0};r.f.j=(f,i)=&gt;{var o=r.o(e,f)?e[f]:void 0;if(0!==o)if(o)i.push(o[2]);else if(666!=f){var a=new Promise((u,b)=&gt;o=e[f]=[u,b]);i.push(o[2]=a);var l=r.p+r.u(f),d=new Error;r.l(l,u=&gt;{if(r.o(e,f)&amp;&amp;(0!==(o=e[f])&amp;&amp;(e[f]=void 0),o)){var b=u&amp;&amp;("load"===u.type?"missing":u.type),c=u&amp;&amp;u.target&amp;&amp;u.target.src;d.message="Loading chunk "+f+" failed.\n("+b+": "+c+")",d.name="ChunkLoadError",d.type=b,d.request=c,o[1](d)}},"chunk-"+f,f)}else e[f]=0},r.O.j=f=&gt;0===e[f];var n=(f,i)=&gt;{var d,s,[o,a,l]=i,u=0;if(o.some(c=&gt;0!==e[c])){for(d in a)r.o(a,d)&amp;&amp;(r.m[d]=a[d]);if(l)var b=l(r)}for(f&amp;&amp;f(i);u&lt;o.length;u++)r.o(e,s=o[u])&amp;&amp;e[s]&amp;&amp;e[s][0](),e[s]=0;return r.O(b)},t=self.webpackChunksite=self.webpackChunksite||[];t.forEach(n.bind(null,0)),t.push=n.bind(null,t.push.bind(t))})()})();<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +1 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[508],{7508:(v,l,o)=&gt;{o.r(l),o.d(l,{TabsExample:()=&gt;s,entry:()=&gt;s});var c=o(4156),t=o(5857),i=o(9721);function d(n,a){1&amp;n&amp;&amp;t.GkF(0)}const p=function(){return{duration:450}},_=function(){return{duration:225}};function u(n,a){1&amp;n&amp;&amp;(t.ynx(0),t._UZ(1,"div",8)(2,"div",9),t.BQk()),2&amp;n&amp;&amp;(t.xp6(1),t.Q6J("lpjAnimation",t.DdM(2,p)),t.xp6(1),t.Q6J("lpjAnimation",t.DdM(3,_)))}function b(n,a){if(1&amp;n){const e=t.EpF();t.TgZ(0,"div",5),t.NdJ("click",function(){const f=t.CHM(e).$implicit,m=t.oxw(2);return t.KtG(m.tabActive=f)}),t.TgZ(1,"span",6),t._uU(2),t.qZA(),t.YNc(3,u,3,4,"ng-container",7),t.qZA()}if(2&amp;n){const e=a.$implicit,r=t.oxw(2);t.ekj("active",r.tabActive===e),t.xp6(2),t.Oqu(e.title),t.xp6(1),t.Q6J("ngIf",r.tabActive===e)}}const g=function(){return["overlay","underline"]};function x(n,a){if(1&amp;n&amp;&amp;(t.TgZ(0,"div",2),t.YNc(1,d,1,0,"ng-container",3),t.YNc(2,b,4,4,"div",4),t.qZA()),2&amp;n){const e=t.oxw();t.xp6(1),t.Q6J("lpjAnimationTrigger",e.tabActive)("lpjAnimationTriggerFor",t.DdM(3,g)),t.xp6(1),t.Q6J("ngForOf",e.tabs)}}let s=(()=&gt;{class n{constructor(){this.tabs=[{title:"Apple"},{title:"Banana"},{title:"Orange"}],this.tabActive=this.tabs[0]}}return n.\u0275fac=function(e){return new(e||n)},n.\u0275cmp=t.Xpm({type:n,selectors:[["ex-tabs"]],standalone:!0,features:[t.jDz],decls:2,vars:0,consts:[[1,"container"],["class","tabs",4,"lpjAnimationScope"],[1,"tabs"],[4,"lpjAnimationTrigger","lpjAnimationTriggerFor"],["class","tab",3,"active","click",4,"ngFor","ngForOf"],[1,"tab",3,"click"],[1,"tab-title"],[4,"ngIf"],["lpjNode","overlay",1,"tab-overlay",3,"lpjAnimation"],["lpjNode","underline",1,"tab-underline",3,"lpjAnimation"]],template:function(e,r){1&amp;e&amp;&amp;(t.TgZ(0,"div",0),t.YNc(1,x,3,4,"div",1),t.qZA())},dependencies:[c.ez,c.sg,c.O5,i.rE,i.BM,i.CP,i.rG,i.y3,i.kf,i.ng],styles:[":host{display:flex;height:400px;justify-content:center;align-items:center;background-color:#85f}.container{width:400px;height:300px;background-color:#fff;border-radius:10px}.tabs{display:flex;padding:4px}.tab{position:relative;display:flex;height:50px;padding:0 30px;justify-content:center;align-items:center;border-top-left-radius:5px;border-top-right-radius:5px;background-color:#fff;cursor:pointer}.tab-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#0000000d;border-radius:inherit;z-index:1}.tab-underline{position:absolute;bottom:0;left:0;width:100%;border-bottom:1px solid rgb(136,85,255);z-index:1}\n"],encapsulation:3,changeDetection:0}),n})()}}]);<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[508],{7508:(v,l,o)=&gt;{o.r(l),o.d(l,{TabsExample:()=&gt;s,entry:()=&gt;s});var c=o(4156),t=o(5857),i=o(1404);function d(n,a){1&amp;n&amp;&amp;t.GkF(0)}const p=function(){return{duration:450}},_=function(){return{duration:225}};function u(n,a){1&amp;n&amp;&amp;(t.ynx(0),t._UZ(1,"div",8)(2,"div",9),t.BQk()),2&amp;n&amp;&amp;(t.xp6(1),t.Q6J("lpjAnimation",t.DdM(2,p)),t.xp6(1),t.Q6J("lpjAnimation",t.DdM(3,_)))}function b(n,a){if(1&amp;n){const e=t.EpF();t.TgZ(0,"div",5),t.NdJ("click",function(){const f=t.CHM(e).$implicit,m=t.oxw(2);return t.KtG(m.tabActive=f)}),t.TgZ(1,"span",6),t._uU(2),t.qZA(),t.YNc(3,u,3,4,"ng-container",7),t.qZA()}if(2&amp;n){const e=a.$implicit,r=t.oxw(2);t.ekj("active",r.tabActive===e),t.xp6(2),t.Oqu(e.title),t.xp6(1),t.Q6J("ngIf",r.tabActive===e)}}const g=function(){return["overlay","underline"]};function x(n,a){if(1&amp;n&amp;&amp;(t.TgZ(0,"div",2),t.YNc(1,d,1,0,"ng-container",3),t.YNc(2,b,4,4,"div",4),t.qZA()),2&amp;n){const e=t.oxw();t.xp6(1),t.Q6J("lpjAnimationTrigger",e.tabActive)("lpjAnimationTriggerFor",t.DdM(3,g)),t.xp6(1),t.Q6J("ngForOf",e.tabs)}}let s=(()=&gt;{class n{constructor(){this.tabs=[{title:"Apple"},{title:"Banana"},{title:"Orange"}],this.tabActive=this.tabs[0]}}return n.\u0275fac=function(e){return new(e||n)},n.\u0275cmp=t.Xpm({type:n,selectors:[["ex-tabs"]],standalone:!0,features:[t.jDz],decls:2,vars:0,consts:[[1,"container"],["class","tabs",4,"lpjAnimationScope"],[1,"tabs"],[4,"lpjAnimationTrigger","lpjAnimationTriggerFor"],["class","tab",3,"active","click",4,"ngFor","ngForOf"],[1,"tab",3,"click"],[1,"tab-title"],[4,"ngIf"],["lpjNode","overlay",1,"tab-overlay",3,"lpjAnimation"],["lpjNode","underline",1,"tab-underline",3,"lpjAnimation"]],template:function(e,r){1&amp;e&amp;&amp;(t.TgZ(0,"div",0),t.YNc(1,x,3,4,"div",1),t.qZA())},dependencies:[c.ez,c.sg,c.O5,i.rE,i.BM,i.CP,i.rG,i.y3,i.kf,i.ng],styles:[":host{display:flex;height:400px;justify-content:center;align-items:center;background-color:#85f}.container{width:400px;height:300px;background-color:#fff;border-radius:10px}.tabs{display:flex;padding:4px}.tab{position:relative;display:flex;height:50px;padding:0 30px;justify-content:center;align-items:center;border-top-left-radius:5px;border-top-right-radius:5px;background-color:#fff;cursor:pointer}.tab-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#0000000d;border-radius:inherit;z-index:1}.tab-underline{position:absolute;bottom:0;left:0;width:100%;border-bottom:1px solid rgb(136,85,255);z-index:1}\n"],encapsulation:3,changeDetection:0}),n})()}}]);<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2023, 08:38:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Apr 2023, 08:37:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
