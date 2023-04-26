@@ -16,11 +16,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_skipped: blogs, TheNightmareX
-          plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -43,4 +38,4 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: reply, deepkit-rest/rest, tasked, berry-orm, nest-mikro-crud, mikro-orm-soft-delete
+          plugin_repositories_featured: reply, layout-projection, deepkit-rest/rest, tasked, berry-orm, nest-mikro-crud, mikro-orm-soft-delete
