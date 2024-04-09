@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN_METRICS }}
-          user: TheNightmareX
+          user: Char2sGu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
