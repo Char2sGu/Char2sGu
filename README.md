@@ -8,3 +8,5 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+<a href="https://gitroll.io/profile/uZdDtoJquTCS2wo9U9rStLIcHZ6E3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZdDtoJquTCS2wo9U9rStLIcHZ6E3" alt="GitRoll Profile Badge"/></a>
