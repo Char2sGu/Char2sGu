@@ -1,5 +1,3 @@
-<a href="https://gitroll.io/profile/uZdDtoJquTCS2wo9U9rStLIcHZ6E3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uZdDtoJquTCS2wo9U9rStLIcHZ6E3" width="480" alt="GitRoll Profile Badge"/></a>
-
 ![Metrics](/github-metrics.svg)
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
